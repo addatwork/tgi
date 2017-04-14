@@ -298,6 +298,6 @@ msgid "Search for location"
 msgstr "Search for location"
 
 #: views/index.php:285
-msgid "Search for file name"
-msgstr "Search for file name"
+msgid "Search for file name  🍊 🍋"
+msgstr "Search for file name  🍊 🍋"
 
